@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>随机 - Tag - 宇的回收站</title>
+        <link>https://mrrockhy.gitee.io/tags/%E9%9A%8F%E6%9C%BA/</link>
+        <description>随机 - Tag - 宇的回收站</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>1244722495@qq.com (@酒邀宇先生)</managingEditor>
+            <webMaster>1244722495@qq.com (@酒邀宇先生)</webMaster><lastBuildDate>Tue, 29 Aug 2023 09:15:41 &#43;0800</lastBuildDate><atom:link href="https://mrrockhy.gitee.io/tags/%E9%9A%8F%E6%9C%BA/" rel="self" type="application/rss+xml" /><item>
+    <title>First_post</title>
+    <link>https://mrrockhy.gitee.io/posts/first_post/</link>
+    <pubDate>Tue, 29 Aug 2023 09:15:41 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://mrrockhy.gitee.io/posts/first_post/</guid>
+    <description><![CDATA[我的第一篇博客兼简要说明&hellip;&hellip;]]></description>
+</item>
+</channel>
+</rss>
