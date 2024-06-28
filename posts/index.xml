@@ -8,7 +8,7 @@
     <title>基于快速理解Yolo算法原理视频上，记录对于算法的理解</title>
     <link>https://mrrockhy.gitee.io/posts/yolo%E7%AE%97%E6%B3%95%E7%9A%84%E6%B5%81%E7%A8%8B%E5%A4%A7%E6%A6%82%E7%90%86%E8%A7%A3/</link>
     <pubDate>Fri, 28 Jun 2024 15:34:22 &#43;0800</pubDate>
-    <author>@酒邀宇先生</author>
+    <author>Toserhy</author>
     <guid>https://mrrockhy.gitee.io/posts/yolo%E7%AE%97%E6%B3%95%E7%9A%84%E6%B5%81%E7%A8%8B%E5%A4%A7%E6%A6%82%E7%90%86%E8%A7%A3/</guid>
     <description><![CDATA[基于快速理解Yolo算法原理视频上，记录对于算法的理解 Yolo算法的训练过程 训练时输入的参数：
 也就是打标签时给予算法的信息：框的大小——xywh；置信度——1；类别——c1、c2、c3（是该类型，对应的种类参数就是1，不是该类型对应的种类参数就是0）；这些信息总共包含8个参数可以记作： $$ y=[P,x,y,w,h,c1,c2,c3] $$
@@ -33,7 +33,7 @@
     <title>深度学习（yolov5）项目笔记/遇到的问题</title>
     <link>https://mrrockhy.gitee.io/posts/deeplearning/</link>
     <pubDate>Tue, 02 Jan 2024 17:06:22 &#43;0800</pubDate>
-    <author>@酒邀宇先生</author>
+    <author>Toserhy</author>
     <guid>https://mrrockhy.gitee.io/posts/deeplearning/</guid>
     <description><![CDATA[使用已经训练好的模型 1.在虚拟环境内外安装的库区别很大，虚拟环境内不安装的情况下运行还是会显示模块缺失，无法import库
 2.核心问题：在使用自已经训练好的模型进行推理时， Can&rsquo;t get attribute &lsquo;DetectionModel&rsquo;，经排查最后问题是yolo.py版本问题，要注意训练时的yolo.py版本和推理时yolo.py版本是否一致，否则经典报错： AttributeError: Can&rsquo;t get attribute &lsquo;DetectionModel&rsquo; on &lt;module &lsquo;models.yolo&rsquo; from &lsquo;D:\DEEPLEARN\yolov5-mask-42-master\models\yolo.py&rsquo;&gt;
@@ -69,7 +69,7 @@
     <title>First_post</title>
     <link>https://mrrockhy.gitee.io/posts/first_post/</link>
     <pubDate>Tue, 29 Aug 2023 09:15:41 &#43;0800</pubDate>
-    <author>Author</author>
+    <author>Toserhy</author>
     <guid>https://mrrockhy.gitee.io/posts/first_post/</guid>
     <description><![CDATA[我的第一篇博客兼简要说明&hellip;&hellip;]]></description>
 </item>
